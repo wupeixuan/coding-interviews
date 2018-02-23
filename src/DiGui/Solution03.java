@@ -16,6 +16,7 @@ public class Solution03 {
 
     /**
      * 用递归直接求解
+     *
      * @param n 斐波那契数列第n项
      * @return 斐波那契数列第n项的值
      */
@@ -32,8 +33,9 @@ public class Solution03 {
 
     /**
      * 迭代方法，用两个变量记录fn-1和fn-2:
+     *
      * @param n 斐波那契数列第n项
-     * @return fN 斐波那契数列第n项的值
+     * @return 斐波那契数列第n项的值
      */
     public static int Fibonacci_2(int n) {
         int zero = 0, one = 1, fN = 0;
