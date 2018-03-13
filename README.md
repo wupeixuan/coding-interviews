@@ -3,11 +3,13 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution01.java">连续子数组的最大和</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution02.java">数组中重复的数字</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution11.java">二维数组中的查找</a><br>
+<h2>字符串</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution12.java">替换空格</a><br>
 <h2> 递归和循环</h3><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/DiGui/Solution03.java">斐波那契数列</a><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/DiGui/Solution04.java">跳台阶</a><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/DiGui/Solution05.java">变态跳台阶</a><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/DiGui/Solution06.java">矩形覆盖</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Recursion/Solution03.java">斐波那契数列</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Recursion/Solution04.java">跳台阶</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Recursion/Solution05.java">变态跳台阶</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Recursion/Solution06.java">矩形覆盖</a><br>
 <h2> 链表</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/LinkedList/Solution10.java">从尾到头打印链表</a><br>
 <h2> 树</h3><br>
