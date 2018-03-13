@@ -2,6 +2,7 @@
 <h2>数组</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution01.java">连续子数组的最大和</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution02.java">数组中重复的数字</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution11.java">二维数组中的查找</a><br>
 <h2> 递归和循环</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/DiGui/Solution03.java">斐波那契数列</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/DiGui/Solution04.java">跳台阶</a><br>
