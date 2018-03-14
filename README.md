@@ -16,11 +16,13 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution08.java">把二叉树打印成多行</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution09.java">按之字形顺序打印二叉树</a><br>
 <h2> 代码的完整性</h3><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Solution07.java">数值的整数次方</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Other.Solution07.java">数值的整数次方</a><br>
 <h2>知识迁移能力</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution13.java">二叉树的深度</a><br>
 <h2>发散思维能力</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution14.java">不用加减乘除做加法</a><br>
+<h2>面试思路</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java">二叉树的镜像</a><br>
 
 
 
