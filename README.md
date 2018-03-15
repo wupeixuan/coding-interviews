@@ -3,7 +3,7 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution01.java">连续子数组的最大和</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution02.java">数组中重复的数字</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution11.java">二维数组中的查找</a><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution15.java">构建乘积数组</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution16.java">构建乘积数组</a><br>
 <h2>字符串</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution12.java">替换空格</a><br>
 <h2> 递归和循环</h3><br>
@@ -22,10 +22,11 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution13.java">二叉树的深度</a><br>
 <h2>发散思维能力</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution14.java">不用加减乘除做加法</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution17.java">求1+2+3+...+n</a><br>
 <h2>面试思路</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java">二叉树的镜像</a><br>
-
-
+<h2>栈和队列</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution18.java">二叉树的镜像</a><br>
 
 
 
