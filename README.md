@@ -27,6 +27,8 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java">二叉树的镜像</a><br>
 <h2>栈和队列</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution18.java">用两个栈实现队列</a><br>
+<h2>位运算</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution19.java">二进制中1的个数</a><br>
 
 
 
