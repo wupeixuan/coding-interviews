@@ -26,7 +26,7 @@
 <h2>面试思路</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java">二叉树的镜像</a><br>
 <h2>栈和队列</h3><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution18.java">二叉树的镜像</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution18.java">用两个栈实现队列</a><br>
 
 
 
