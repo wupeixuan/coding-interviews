@@ -1,6 +1,5 @@
 # <h1>剑指offer</h1><br>
 <h2>数组</h3><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution01.java">连续子数组的最大和</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution02.java">数组中重复的数字</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution11.java">二维数组中的查找</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution16.java">构建乘积数组</a><br>
@@ -30,7 +29,12 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution18.java">用两个栈实现队列</a><br>
 <h2>位运算</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution19.java">二进制中1的个数</a><br>
+<h2>时间效率</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution01.java">连续子数组的最大和</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution21.java">整数中1出现的次数</a><br>
+<h2>时间空间效率的平衡</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/LinkedList/Solution22.java">两个链表的第一个公共结点</a><br>
 
 
-
+ 
 
