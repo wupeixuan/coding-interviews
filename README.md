@@ -20,6 +20,7 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Other.Solution07.java">数值的整数次方</a><br>
 <h2>知识迁移能力</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution13.java">二叉树的深度</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution20.java">平衡二叉树</a><br>
 <h2>发散思维能力</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution14.java">不用加减乘除做加法</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution17.java">求1+2+3+...+n</a><br>
