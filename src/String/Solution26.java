@@ -29,6 +29,7 @@ public class Solution26 {
 
     //return the first appearence once char in current stringstream
     public char FirstAppearingOnce() {
+        //遍历map集合，判断出现次数是否为1
         for (Map.Entry<Character, Integer> entry :
                 linkedHashMap.entrySet()) {
             if (entry.getValue() == 1) {
