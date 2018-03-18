@@ -19,7 +19,7 @@ public class Solution25 {
         if (min.empty()) {
             min.push(node);
         } else {
-            min.push((min.peek()) > node ? node : min.peek());
+            min.push((min.peek()) > node ? node : min.peek());//min栈顶始终是最小值
         }
     }
 
