@@ -39,3 +39,6 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/LinkedList/Solution22.java">两个链表的第一个公共结点</a><br>
 <h2>举例让抽象具体化</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Stack/Solution25.java">包含min函数的栈</a><br>
+<h2>查找和排序</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution27.java">旋转数组的最小数字</a><br>
+
