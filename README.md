@@ -18,6 +18,7 @@
 <h2>树</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution08.java">把二叉树打印成多行</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution09.java">按之字形顺序打印二叉树</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution28.java">对称的二叉树</a><br>
 <h2>代码的完整性</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Other.Solution07.java">数值的整数次方</a><br>
 <h2>知识迁移能力</h3><br>
