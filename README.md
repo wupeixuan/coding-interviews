@@ -5,6 +5,7 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution16.java">构建乘积数组</a><br>
 <h2>字符串</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution12.java">替换空格</a><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution26.java">字符流中第一个不重复的字符</a><br>
 <h2>递归和循环</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Recursion/Solution03.java">斐波那契数列</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Recursion/Solution04.java">跳台阶</a><br>
