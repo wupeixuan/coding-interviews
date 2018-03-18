@@ -27,8 +27,6 @@
 <h2>发散思维能力</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution14.java">不用加减乘除做加法</a><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution17.java">求1+2+3+...+n</a><br>
-<h2>面试思路</h3><br>
-<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java">二叉树的镜像</a><br>
 <h2>栈和队列</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/StackAndQueue/Solution18.java">用两个栈实现队列</a><br>
 <h2>位运算</h3><br>
@@ -42,4 +40,8 @@
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Stack/Solution25.java">包含min函数的栈</a><br>
 <h2>查找和排序</h3><br>
 <a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution27.java">旋转数组的最小数字</a><br>
-
+<h2>综合</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution29.java">把字符串转换成整数</a><br>
+<h2>面试思路</h3><br>
+<a href="https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java">二叉树的镜像</a><br>
+ 
