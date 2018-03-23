@@ -1,4 +1,4 @@
-# 剑指offer
+# 剑指Offer
 ## 数组
 [数组中重复的数字](https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution02.java)
 
@@ -35,6 +35,8 @@
 [二叉树的深度](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution13.java)
 
 [平衡二叉树](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution20.java)
+
+[左旋转字符串](https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution31.java)
 ## 发散思维能力
 [不用加减乘除做加法](https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution14.java)
 
@@ -59,6 +61,3 @@
 [二叉树的镜像](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java)
 ## 抽象建模能力
 [圆圈中最后剩下的数](https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution30.java)
-
-
- 
