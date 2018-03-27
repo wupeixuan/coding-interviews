@@ -7,10 +7,17 @@ package String;
  * 例如，字符序列S=”abcXYZdef”,要求输出循环左移3位后的结果，即“XYZdefabc”。是不是很简单？OK，搞定它！
  */
 public class Solution31 {
+    public static void main(String[] args) {
+        Solution31 solution31 = new Solution31();
+        String str = "abcXYZdef";
+        System.out.println(solution31.LeftRotateString(str, 3));
+    }
 
     public String LeftRotateString(String str, int n) {
-
-
-        return str;
+        if (str == null || str.length() == 0) return "";
+        StringBuilder sb1 = new StringBuilder(str.substring(0, n));
+        StringBuilder sb2 = new StringBuilder(str.substring(n, str.length()));
+        sb2.append(sb1);
+        return sb2.toString();
     }
 }
