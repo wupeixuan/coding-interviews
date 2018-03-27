@@ -1,6 +1,7 @@
 package Recursion;
 
 /**
+ * 矩形覆盖
  * 我们可以用2*1的小矩形横着或者竖着去覆盖更大的矩形。请问用n个2*1的小矩形无重叠地覆盖一个2*n的大矩形，总共有多少种方法？
  * 思路：
  * 当n=1，f（n）=1
@@ -13,6 +14,23 @@ public class Solution06 {
     public static void main(String[] args) {
         Solution06 solution06 = new Solution06();
         System.out.println(solution06.RectCover(5));
+    }
+
+    /**
+     * 动态规划
+     *
+     * @param target
+     * @return
+     */
+    public int RectCover_3(int target) {
+        if (target < 2) return target;
+        int[] dp = new int[target];
+        dp[0] = 1;
+        dp[1] = 2;
+        for (int i = 2; i < target; i++) {
+            dp[i] = dp[i - 1] + dp[i - 2];
+        }
+        return dp[target - 1];
     }
 
     /**
