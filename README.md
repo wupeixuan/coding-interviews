@@ -29,6 +29,8 @@
 [按之字形顺序打印二叉树](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution09.java)
 
 [对称的二叉树](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution28.java)
+
+[二叉树的下一个结点](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution32.java)
 ## 代码的完整性
 [数值的整数次方](https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution07.java)
 ## 知识迁移能力
