@@ -41,6 +41,8 @@
 [左旋转字符串](https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution31.java)
 
 [数字在排序数组中出现的次数](https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution33.java)
+
+[和为S的两个数字](https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution34.java)
 ## 发散思维能力
 [不用加减乘除做加法](https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution14.java)
 
