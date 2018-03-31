@@ -67,3 +67,6 @@
 [二叉树的镜像](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution15.java)
 ## 抽象建模能力
 [圆圈中最后剩下的数](https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution30.java)
+## 代码的鲁棒性
+[反转链表](https://github.com/wupeixuan/coding-interviews/blob/master/src/LinkedList/Solution35.java)
+	
