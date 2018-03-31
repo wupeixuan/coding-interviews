@@ -59,6 +59,8 @@
 [两个链表的第一个公共结点](https://github.com/wupeixuan/coding-interviews/blob/master/src/LinkedList/Solution22.java)
 ## 举例让抽象具体化
 [包含min函数的栈](https://github.com/wupeixuan/coding-interviews/blob/master/src/Stack/Solution25.java)
+
+[栈的压入、弹出序列](https://github.com/wupeixuan/coding-interviews/blob/master/src/Stack/Solution36.java)
 ## 查找和排序
 [旋转数组的最小数字](https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution27.java)
 ## 综合
