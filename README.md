@@ -45,6 +45,8 @@
 [和为S的两个数字](https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution34.java)
 
 [数组中只出现一次的数字](https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution37.java)
+
+[和为S的连续正数序列](https://github.com/wupeixuan/coding-interviews/blob/master/src/Array/Solution40.java)
 ## 发散思维能力
 [不用加减乘除做加法](https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution14.java)
 
