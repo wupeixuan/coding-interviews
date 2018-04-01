@@ -73,5 +73,7 @@
 [圆圈中最后剩下的数](https://github.com/wupeixuan/coding-interviews/blob/master/src/Other/Solution30.java)
 ## 代码的鲁棒性
 [反转链表](https://github.com/wupeixuan/coding-interviews/blob/master/src/LinkedList/Solution35.java)
+
+[合并两个排序的链表](https://github.com/wupeixuan/coding-interviews/blob/master/src/LinkedList/Solution39.java)
 ## 分解让复杂问题简单
 [二叉搜索树与双向链表](https://github.com/wupeixuan/coding-interviews/blob/master/src/Tree/Solution38.java)
