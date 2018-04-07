@@ -9,6 +9,8 @@
 [替换空格](https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution12.java)
 
 [字符流中第一个不重复的字符](https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution26.java)
+
+[表示数值的字符串](https://github.com/wupeixuan/coding-interviews/blob/master/src/String/Solution41.java)
 ## 递归和循环
 [斐波那契数列](https://github.com/wupeixuan/coding-interviews/blob/master/src/Recursion/Solution03.java)
 
