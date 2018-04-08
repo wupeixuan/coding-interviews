@@ -1,4 +1,4 @@
-# 剑指Offer
+# 剑指Offer题目索引
 ## 数组
 [数组中重复的数字](http://www.cnblogs.com/wupeixuan/p/8623363.html)
 
@@ -33,6 +33,8 @@
 [对称的二叉树](http://www.cnblogs.com/wupeixuan/p/8623427.html)
 
 [二叉树的下一个结点](http://www.cnblogs.com/wupeixuan/p/8678670.html)
+
+[数据流中的中位数](http://www.cnblogs.com/wupeixuan/p/8745256.html)
 ## 代码的完整性
 [数值的整数次方](http://www.cnblogs.com/wupeixuan/p/8623159.html)
 ## 知识迁移能力
