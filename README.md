@@ -65,6 +65,8 @@
 [整数中1出现的次数](http://www.cnblogs.com/wupeixuan/p/8623217.html)
 
 [数组中出现次数超过一半的数字](http://www.cnblogs.com/wupeixuan/p/8744078.html)
+
+[把数组排成最小的数](http://www.cnblogs.com/wupeixuan/p/8780642.html)	
 ## 时间空间效率的平衡
 [两个链表的第一个公共结点](http://www.cnblogs.com/wupeixuan/p/8623229.html)
 ## 举例让抽象具体化
