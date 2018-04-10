@@ -85,6 +85,8 @@
 [二叉树的镜像](http://www.cnblogs.com/wupeixuan/p/8623179.html)
 ## 抽象建模能力
 [圆圈中最后剩下的数](http://www.cnblogs.com/wupeixuan/p/8624526.html)
+
+[扑克牌顺子](http://www.cnblogs.com/wupeixuan/p/8781081.html)	
 ## 代码的鲁棒性
 [反转链表](http://www.cnblogs.com/wupeixuan/p/8682321.html)
 
