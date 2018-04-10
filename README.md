@@ -73,6 +73,8 @@
 [栈的压入、弹出序列](http://www.cnblogs.com/wupeixuan/p/8682837.html)
 
 [从上往下打印二叉树](http://www.cnblogs.com/wupeixuan/p/8758540.html)
+
+[二叉树中和为某一值的路径](http://www.cnblogs.com/wupeixuan/p/8777539.html)
 ## 查找和排序
 [旋转数组的最小数字](http://www.cnblogs.com/wupeixuan/p/8623095.html)
 ## 综合
