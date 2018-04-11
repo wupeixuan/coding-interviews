@@ -37,6 +37,8 @@
 [数据流中的中位数](http://www.cnblogs.com/wupeixuan/p/8745256.html)
 ## 代码的完整性
 [数值的整数次方](http://www.cnblogs.com/wupeixuan/p/8623159.html)
+
+[调整数组顺序使奇数位于偶数前面](http://www.cnblogs.com/wupeixuan/p/8795151.html)
 ## 知识迁移能力
 [二叉树的深度](http://www.cnblogs.com/wupeixuan/p/8623237.html)
 
