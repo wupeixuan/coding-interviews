@@ -35,6 +35,8 @@
 [二叉树的下一个结点](http://www.cnblogs.com/wupeixuan/p/8678670.html)
 
 [数据流中的中位数](http://www.cnblogs.com/wupeixuan/p/8745256.html)
+
+[二叉搜索树的第k个结点](http://www.cnblogs.com/wupeixuan/p/8745256.html)
 ## 代码的完整性
 [数值的整数次方](http://www.cnblogs.com/wupeixuan/p/8623159.html)
 

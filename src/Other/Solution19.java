@@ -10,6 +10,12 @@ public class Solution19 {
         System.out.println(solution19.NumberOf1_3(3));
     }
 
+    /**
+     * 用Integer.bitCount函数统计参数n转成2进制后有多少个1
+     *
+     * @param n
+     * @return
+     */
     public int NumberOf1_3(int n) {
         return Integer.bitCount(n);
     }
