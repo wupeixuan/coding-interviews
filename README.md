@@ -95,5 +95,7 @@
 [反转链表](http://www.cnblogs.com/wupeixuan/p/8682321.html)
 
 [合并两个排序的链表](http://www.cnblogs.com/wupeixuan/p/8686438.html)
+
+[链表中倒数第k个结点](http://www.cnblogs.com/wupeixuan/p/8847132.html)
 ## 分解让复杂问题简单
 [二叉搜索树与双向链表](http://www.cnblogs.com/wupeixuan/p/8684758.html)
