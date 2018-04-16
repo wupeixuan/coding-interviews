@@ -73,6 +73,8 @@
 [把数组排成最小的数](http://www.cnblogs.com/wupeixuan/p/8780642.html)	
 ## 时间空间效率的平衡
 [两个链表的第一个公共结点](http://www.cnblogs.com/wupeixuan/p/8623229.html)
+
+[第一个只出现一次的字符位置](http://www.cnblogs.com/wupeixuan/p/8623229.html)
 ## 举例让抽象具体化
 [包含min函数的栈](http://www.cnblogs.com/wupeixuan/p/8623195.html)
 
