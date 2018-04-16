@@ -15,7 +15,7 @@ public class Solution35 {
         //如果链表为空或者链表中只有一个元素 
         if (head == null || head.next == null) return head;
         //先递归找到到链表的末端结点，从后依次反转整个链表
-        ListNode reverseHead = ReverseList(head.next);
+        ListNode reverseHead = ReverseList_2(head.next);
         //再将当前节点设置为后面节点的后续节点 
         head.next.next = head;
         head.next = null;
