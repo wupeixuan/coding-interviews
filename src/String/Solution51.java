@@ -14,7 +14,7 @@ public class Solution51 {
     }
 
     /**
-     * 使用BitSet对出现次数进行统计    0,1,更大
+     * 使用BitSet对出现次数进行统计    0,1,更多
      * 对应ASCII码表的256个字符
      *
      * @param str
