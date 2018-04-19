@@ -61,6 +61,8 @@
 [求1+2+3+...+n](http://www.cnblogs.com/wupeixuan/p/8623261.html)
 ## 栈和队列
 [用两个栈实现队列](http://www.cnblogs.com/wupeixuan/p/8623077.html)
+
+[滑动窗口的最大值](http://www.cnblogs.com/wupeixuan/p/8881868.html)	
 ## 位运算
 [二进制中1的个数](http://www.cnblogs.com/wupeixuan/p/8623150.html)
 ## 时间效率
