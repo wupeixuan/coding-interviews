@@ -57,6 +57,8 @@
 [数组中只出现一次的数字](http://www.cnblogs.com/wupeixuan/p/8683224.html)
 
 [和为S的连续正数序列](http://www.cnblogs.com/wupeixuan/p/8687936.html)
+
+[翻转单词顺序列](https://www.cnblogs.com/wupeixuan/p/9721363.html)
 ## 发散思维能力
 [不用加减乘除做加法](http://www.cnblogs.com/wupeixuan/p/8623303.html)
 
